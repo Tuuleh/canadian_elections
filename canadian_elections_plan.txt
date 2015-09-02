@@ -1,0 +1,36 @@
+1. subset only donations to conservatives
+2. make doner ID a factor
+3. aggregate 
+  - total donation for that year by DONER_ID
+  - total number of donations for that year by DONER_ID
+  - average donation by DONER_ID
+4. merge data frames by doner id
+
+ddply(test_frame,.(clean_first_last_name,contributor_id),summarise,mean_2005=mean(donation_2005),total_2005=sum(donation_2005),frequency_2005=length(donation_2005))
+
+
+assign('aggregates_2014', ddply(doners_2014,.(clean_first_last_name,contributor_id),summarise,mean_2014=mean(donation_2014),total_2014=sum(donation_2014),frequency_2014=length(donation_2014)))
+
+5. find overall total of donations over time
+
+
+giant_data$total_all_time <- sum(giant_data$total_2004,giant_data$total_2005,giant_data$total_2006,giant_data$total_2007,giant_data$total_2008,giant_data$total_2009,giant_data$total_2010,giant_data$total_2011,giant_data$total_2012,giant_data$total_2013,giant_data$total_2014, na.rm=TRUE)
+
+giant_data$total_all_time <- rowSums(giant_data[,c(giant_data$total_2004,giant_data$total_2005,giant_data$total_2006,giant_data$total_2007,giant_data$total_2008,giant_data$total_2009,giant_data$total_2010,giant_data$total_2011,giant_data$total_2012,giant_data$total_2013,giant_data$total_2014)], na.rm=TRUE)
+
+
+giant_data$total_all_time <- rowSums(giant_data[,c('total_2004','total_2005','total_2006','total_2007','total_2008','total_2009','total_2010','total_2011','total_2012','total_2013','total_2014')], na.rm=TRUE)
+
+giant_data$aliases <- unique(c(as.character(giant_data$name_2004),as.character(giant_data$name_2005),as.character(giant_data$name_2006),as.character(giant_data$name_2007),as.character(giant_data$name_2008),as.character(giant_data$name_2009),as.character(giant_data$name_2010),as.character(giant_data$name_2011),as.character(giant_data$name_2012),as.character(giant_data$name_2013),as.character(giant_data$name_2014)))
+
+
+giant_data[,list('name_2004','name_2005','name_2006','name_2007','name_2008','name_2009','name_2010','name_2011','name_2012','name_2013','name_2014')]
+
+giant_data$aliases <- giant_data[,aliases=I(list('name_2004','name_2005','name_2006','name_2007','name_2008','name_2009','name_2010','name_2011','name_2012','name_2013','name_2014'))]
+
+giant_data[,aliases=I(list(giant_data$name_2004, giant_data$name_2005,giant_data$name_2006,giant_data$name_2007,giant_data$name_2008,giant_data$name_2009,giant_data$name_2010,giant_data$name_2011,giant_data$name_2012,giant_data$name_2013,giant_data$name_2014))]
+
+
+giant_data$aliases <- list(giant_data$name_2004, giant_data$name_2005,giant_data$name_2006,giant_data$name_2007,giant_data$name_2008,giant_data$name_2009,giant_data$name_2010,giant_data$name_2011,giant_data$name_2012,giant_data$name_2013,giant_data$name_2014)
+
+aliases <- uniq(list(giant_data$name_2004, giant_data$name_2005,giant_data$name_2006,giant_data$name_2007,giant_data$name_2008,giant_data$name_2009,giant_data$name_2010,giant_data$name_2011,giant_data$name_2012,giant_data$name_2013,giant_data$name_2014))
