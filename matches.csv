@@ -1,864 +1,480 @@
-11229
-18113
-400
-18513
-35653
-35814
-35899
-35575
-1082
-40300
-41061
-44728
-47727
-48278
-49906
-50414
-52663
-1706
-60534
-58557
-64262
-67265
-71650
-71718
-78225
-81051
-2679
-83699
-90249
-90658
-94730
-98565
-99991
-100802
-109396
-121307
-119639
-122043
-122068
-122287
-120113
-120269
-3952
-135950
-135952
-136949
-134551
-138183
-137082
-137096
-137612
-2361
-134313
-137185
-138406
-145061
-147312
-148274
-149459
-149827
-153088
-156978
-161943
-165342
-176190
-176872
-184380
-185287
-190635
-191188
-191453
-193259
-195132
-197118
-205704
-205894
-206876
-207393
-205513
-6502
-213119
-216553
-216571
-219116
-222733
-220790
-222742
-223366
-224422
-223076
-223903
-222125
-226955
-233490
-234035
-240237
-243142
-245840
-246019
-251712
-8083
-254463
-257796
-261843
-265158
-265439
-12380
-12554
-14826
-21089
-31722
-35188
-48812
-50416
-1571
-57127
-59883
-58732
-60535
-58501
-59260
-58184
-60942
-62934
-68499
-72040
-91391
-91766
-99774
-3305
-101224
-102355
-106062
-107044
-110143
-111418
-113101
-113122
-117640
-117998
-120748
-119913
-120609
-121854
-121316
-120688
-128782
-136640
-4476
-133908
-140635
-136242
-137226
-137603
-138782
-144688
-156456
-167009
-5621
-5657
-179262
-184666
-184930
-186485
-185612
-191401
-203254
-202647
-202913
-205708
-205901
-206516
-6694
-217770
-220399
-220859
-6994
-220785
-222741
-223381
-222603
-225134
-222919
-7040
-227800
-230665
-230854
-233285
-242445
-243143
-245789
-253047
-261844
-264035
-261908
-265251
-265103
-265693
-18114
-19866
-23176
-25147
-35900
-48697
-57421
-57422
-57423
-57424
-57485
-58750
-56396
-58339
-58500
-1776
-61085
-56627
-58174
-60850
-62905
-63160
-64282
-65363
-66335
-67676
-2075
-68971
-68613
-69817
-71705
-71649
-79719
-81347
-91620
-100541
-3333
-101449
-107043
-111581
-3864
-117878
-120630
-119571
-121869
-124589
-4149
-126384
-132241
-137943
-134898
-138277
-139540
-135643
-148241
-149458
-149673
-151204
-152680
-153646
-157298
-163819
-170340
-172646
-176736
-179263
-182043
-184031
-184714
-187616
-187914
-195117
-196960
-198209
-6324
-6402
-205906
-212823
-214252
-2371
-218132
-218950
-6600
-221777
-220788
-221779
-222000
-221609
-6954
-222669
-226780
-230874
-232115
-7368
-235513
-236738
-242910
-243141
-243260
-252198
-263405
-261845
-265918
-266846
-147
-18512
-32834
-36333
-35618
-40265
-50434
-50435
-52608
-57537
-56515
-59259
-60646
-59316
-62775
-68498
-66940
-72832
-2372
-81148
-87706
-93815
-96973
-101661
-103711
-110145
-112725
-117729
-119319
-120658
-121252
-119398
-121896
-122290
-122968
-124590
-128586
-129014
-136638
-138991
-138929
-148623
-153167
-156977
-163556
-165344
-170004
-176299
-5583
-5802
-186047
-186201
-185403
-187059
-187615
-191528
-194908
-197294
-201807
-6272
-202222
-202224
-202266
-204315
-207853
-205897
-205900
-207698
-209437
-210234
-216814
-216554
-224558
-223663
-220476
-224294
-224296
-221842
-227191
-234167
-234288
-235195
-245341
-246653
-7910
-249489
-251704
-251286
-4937
-257926
-261848
-263445
-8332
-266912
-266977
-12553
-12860
-17946
-17952
-393
-345
-20299
-31624
-35897
-38260
-42157
-44729
-47050
-48353
-48740
-48766
-48773
-50417
-1476
-53687
-54505
-57425
-58558
-60893
-62431
-63157
-64261
-1638
-67798
-72039
-71832
-73690
-73709
-75468
-77832
-78224
-79735
-91951
-3004
-2996
-3041
-3042
-93816
-97807
-98474
-100813
-103533
-106703
-109326
-117877
-120859
-121712
-120270
-120463
-133897
-135013
-138990
-134890
-134550
-138609
-138325
-137778
-4494
-135215
-149256
-150168
-158846
-159166
-159986
-176104
-177858
-5662
-185573
-187255
-187211
-191952
-200809
-201867
-201493
-202223
-202520
-202645
-205835
-205905
-206878
-206102
-207220
-208338
-6486
-209953
-209954
-210965
-216552
-219117
-220789
-222604
-223173
-223671
-222907
-223862
-225559
-228270
-233575
-235607
-236463
-240169
-242684
-245788
-7932
-8043
-253061
-254595
-257177
-261198
-263381
-73131
-264876
-263224
-263886
-265102
-8412
-18587
-19867
-21090
-27435
-32780
-35898
-50571
-51465
-52982
-59567
-58185
-59315
-2609
-90616
-102252
-103592
-105489
-117213
-117723
-117728
-119159
-122215
-118857
-120659
-122061
-119128
-122506
-124704
-126355
-4416
-134788
-134799
-138226
-137362
-138435
-136439
-136190
-150120
-153170
-5041
-161944
-165343
-168758
-184628
-184105
-186218
-187955
-191527
-194500
-201824
-202267
-205896
-209714
-210486
-210974
-218678
-218572
-222267
-225365
-224291
-222481
-231255
-233286
-235606
-235194
-238780
-242446
-242771
-245342
-254214
-257927
-260311
-8386
-265038
-20894
-28199
-906
-37930
-48706
-50415
-51855
-54506
-56449
-58117
-56897
-58183
-60329
-60894
-62430
-64601
-67508
-2343
-100035
-102458
-103715
-103824
-118761
-120384
-122023
-121845
-118856
-121251
-122365
-124547
-126383
-150117
-151338
-157370
-5644
-178214
-184932
-187703
-191529
-192723
-197633
-197971
-202646
-205531
-210457
-210186
-210489
-219352
-223404
-230499
-230844
-242772
-242685
-246654
-261225
-261847
-266917
-266919
-12555
-14825
-29861
-35815
-36258
-35576
-34685
-40107
-50433
-59751
-61086
-63340
-66336
-71856
-72700
-75487
-75717
-76031
-81787
-91327
-93145
-98889
-100783
-99990
-100803
-101213
-103792
-117214
-117874
-120749
-118694
-122216
-119346
-118846
-119129
-121332
-124972
-136639
-134191
-158944
-162121
-162111
-165341
-186628
-184627
-190639
-197972
-197994
-198729
-206656
-208048
-212038
-214613
-218131
-216572
-217477
-218680
-222383
-222268
-220447
-223174
-223794
-226260
-228269
-230875
-231438
-234067
-244608
-245790
-248969
-254464
-256406
-261846
-263425
-266817
-11398
-12278
-18279
-20300
-28530
-32781
-36352
-44899
-59241
-59206
-65109
-75434
-78070
-79736
-91619
-108246
-117229
-120660
-120461
-120112
-120775
-121333
-122366
-129013
-138601
-140748
-140357
-148450
-172455
-176935
-184931
-190638
-193248
-194485
-194651
-195798
-201755
-205903
-207034
-222743
-224290
-225863
-233287
-235193
-240168
-240770
-245726
-249490
-252199
-254218
-263378
-264841
-261873
-264415
-84
-14836
-18038
-50338
-1673
-54090
-60896
-61816
-67035
-79734
-97637
-103866
-120629
-121855
-121203
-122368
-125087
-134726
-136303
-139862
-140496
-134213
-150121
-152736
-153168
-164868
-170003
-174242
-184106
-190634
-191530
-217478
-219118
-222420
-221000
-226259
-231517
-235383
-245944
-247612
-8099
-260312
-264842
-264690
-266918
-14837
-27825
-44730
-50449
-60536
-58175
-62252
-62716
-68123
-72573
-75467
-97808
-103532
-112778
-118829
-118858
-120885
-122288
-3981
-122289
-122984
-122894
-140693
-138634
-134212
-137469
-138336
-136474
-144104
-151210
-165750
-170341
-184825
-202912
-206657
-223302
-224186
-236737
-242770
-254465
+parsed_name,organization,contributor_id,type,name
+edward gordon,Business Development Bank of Canada,8906,Govenor In Council Appointments,"Gordon, Edward"
+george hungerford,First Nations Financial Management Board,8950,Govenor In Council Appointments,"Hungerford, George"
+bob dhillon,Canada Mortgage and Housing Corporation,9219,Govenor In Council Appointments,"Dhillon, Bob"
+sam shaw,Standards Council of Canada,9397,Govenor In Council Appointments,"Shaw, Sam"
+patrick smith,Specific Claims Tribunal,8869,Govenor In Council Appointments,"Smith, Patrick"
+mark curry,Toronto Port Authority,8774,Govenor In Council Appointments,"Curry, Mark"
+grant machum,Telefilm Canada,8758,Govenor In Council Appointments,"Machum, Grant"
+richard turner,Vancouver Fraser Port Authority,9463,Govenor In Council Appointments,"Turner, Richard"
+yves fortier,Security Intelligence Review Committee,9662,Govenor In Council Appointments,"Fortier, Yves"
+scott shepherd,Ridley Terminals Inc.,9636,Govenor In Council Appointments,"Shepherd, Scott"
+ian mackenzie,Parole Board of Canada,80,Govenor In Council Appointments,"Mackenzie, Ian"
+peter armstrong,PPP Canada Inc.,8754,Govenor In Council Appointments,"Armstrong, Peter"
+peter annis,Public Servants Disclosure Protection Tribunal,9872,Govenor In Council Appointments,"Annis, Peter"
+john baker,Social Sciences and Humanities Research Council,9875,Govenor In Council Appointments,"Baker, John"
+john bell,Royal Canadian Mint,85,Govenor In Council Appointments,"Bell, John"
+dominique bellemare,Social Security Tribunal,9885,Govenor In Council Appointments,"Bellemare, Dominique"
+claude bennett,Royal Canadian Mint,9925,Govenor In Council Appointments,"Bennett, Claude"
+robert brown,Payments in lieu of Taxes Dispute Advisory Panel,9957,Govenor In Council Appointments,"Brown, Robert"
+howard bruce,Parole Board of Canada,9996,Govenor In Council Appointments,"Bruce, Howard"
+diane campbell,Tax Court of Canada-Judges,9979,Govenor In Council Appointments,"Campbell, Diane"
+mary crane,Parole Board of Canada,9978,Govenor In Council Appointments,"Crane, Mary"
+julia foster,Social Sciences and Humanities Research Council,8725,Govenor In Council Appointments,"Foster, Julia"
+ian fowler,Parole Board of Canada,8704,Govenor In Council Appointments,"Fowler, Ian"
+peter gaulton,Saint John Port Authority,99,Govenor In Council Appointments,"Gaulton, Peter"
+robert gibbs,Social Sciences and Humanities Research Council,10247,Govenor In Council Appointments,"Gibbs, Robert"
+leonard hall,Veterans Review and Appeal Board,10232,Govenor In Council Appointments,"Hall, Leonard"
+david henley,Transportation Appeal Tribunal of Canada,10249,Govenor In Council Appointments,"Henley, David"
+jacob hiebert,Parole Board of Canada,10348,Govenor In Council Appointments,"Hiebert, Jacob"
+thomas jarmyn,Veterans Review and Appeal Board,10363,Govenor In Council Appointments,"Jarmyn, Thomas"
+william mackinnon,Public Sector Pension Investment Board,10607,Govenor In Council Appointments,"MacKinnon, William"
+mark mcqueen,"Toronto Port Authority,æWindsor-Detroit Bridge Authority",140,Govenor In Council Appointments,"McQueen, Mark"
+john morrison,Veterans Review and Appeal Board,10930,Govenor In Council Appointments,"Morrison, John"
+damian parrent,Parole Board of Canada,11229,Govenor In Council Appointments,"Parrent, Damian"
+carol pennycook,PPP Canada Inc.,11290,Govenor In Council Appointments,"Pennycook, Carol"
+robert poirier,Toronto Port Authority,11759,Govenor In Council Appointments,"Poirier, Robert"
+richard raymond,Standards Council of Canada,11330,Govenor In Council Appointments,"Raymond, Richard"
+william ross,Royal Canadian Mint,11356,Govenor In Council Appointments,"Ross, William"
+harvey silbernagel,Parole Board of Canada,11362,Govenor In Council Appointments,"Silbernagel, Harvey"
+william wheatley,VIA Rail Canada Inc.,11416,Govenor In Council Appointments,"Wheatley, William"
+wesley scott,Bank of Canada,11604,Govenor In Council Appointments,"Scott, Wesley"
+richard alway,Historic Sites and Monuments Board of Canada,11419,Govenor In Council Appointments,"Alway, Richard"
+robert blair,Copyright Board,11773,Govenor In Council Appointments,"Blair, Robert"
+andrea bobkowicz,Canadian Museum of History,134,Govenor In Council Appointments,"Bobkowicz, Andrea"
+kimberley bozak,National Arts Centre Corporation,11257,Govenor In Council Appointments,"Bozak, Kimberley"
+robert brooks,Canada Pension Plan Investment Board,11585,Govenor In Council Appointments,"Brooks, Robert"
+john clarkson,Canadian Transportation Accident Investigation and Safety Board,11781,Govenor In Council Appointments,"Clarkson, John"
+nellie cournoyea,Canadian High Arctic Research Station,11631,Govenor In Council Appointments,"Cournoyea, Nellie"
+paul crampton,Competition Tribunal,11379,Govenor In Council Appointments,"Crampton, Paul"
+david emerson,Asia-Pacific Foundation of Canada,11381,Govenor In Council Appointments,"Emerson, David"
+russell fast,Freshwater Fish Marketing Corporation,11917,Govenor In Council Appointments,"Fast, Russell"
+leonard favreau,Immigration and Refugee Board,11826,Govenor In Council Appointments,"Favreau, Leonard"
+cathryn forbes,Immigration and Refugee Board,11591,Govenor In Council Appointments,"Forbes, Cathryn"
+david goldstein,Canadian Tourism Commission,11992,Govenor In Council Appointments,"Goldstein, David"
+robert goluch,Competition Tribunal,12007,Govenor In Council Appointments,"Goluch, Robert"
+norman halldorson,Canada Revenue Agency,185,Govenor In Council Appointments,"Halldorson, Norman"
+melvin hawkrigg,Hamilton Port Authority,12347,Govenor In Council Appointments,"Hawkrigg, Melvin"
+david henderson,Halifax Port Authority,12087,Govenor In Council Appointments,"Henderson, David"
+george hungerford,North Pacific Anadromous Fish Commission,12266,Govenor In Council Appointments,"Hungerford, George"
+douglas hyndman,Canadian Securities Regulation Regime Transition Office,12267,Govenor In Council Appointments,"Hyndman, Douglas"
+william james,Bankruptcy,12260,Govenor In Council Appointments,"James, William"
+robert kelly,Canada Mortgage and Housing Corporation,12287,Govenor In Council Appointments,"Kelly, Robert"
+jacques laforge,Canadian Dairy Commission,12531,Govenor In Council Appointments,"Laforge, Jacques"
+stephen leach,Canadian International Trade Tribunal,12329,Govenor In Council Appointments,"Leach, Stephen"
+leanne lewis,Canadian Centre on Substance Abuse,12534,Govenor In Council Appointments,"Lewis, Leanne"
+brian macdonald,Historic Sites and Monuments Board of Canada,12377,Govenor In Council Appointments,"MacDonald, Brian"
+christopher macdonald,Canadian Radio-television and Telecommunications Commission,12450,Govenor In Council Appointments,"MacDonald, Christopher"
+rodney macdonald,Canada-Nova Scotia Offshore Petroleum Board,12311,Govenor In Council Appointments,"MacDonald, Rodney"
+wayne macintosh,Canada Lands Company Limited,12516,Govenor In Council Appointments,"MacIntosh, Wayne"
+robert manning,Canada Revenue Agency,12072,Govenor In Council Appointments,"Manning, Robert"
+todd mccarthy,Canada Revenue Agency,12439,Govenor In Council Appointments,"McCarthy, Todd"
+robert mcculloch,Natural Sciences and Engineering Research Council,12441,Govenor In Council Appointments,"McCulloch, Robert"
+john mcdougall,National Research Council of Canada,12463,Govenor In Council Appointments,"McDougall, John"
+donald mcfetridge,Competition Tribunal,12464,Govenor In Council Appointments,"McFetridge, Donald"
+james mcilroy,Internal Trade Agreement: Dispute Resolution Roster of Panellists,12053,Govenor In Council Appointments,"McIlroy, James"
+james mckane,Great Lakes Fishery Commission,12074,Govenor In Council Appointments,"McKane, James"
+james miller,Historic Sites and Monuments Board of Canada,12492,Govenor In Council Appointments,"Miller, James"
+brian mitchell,Canadian Broadcasting Corporation,12216,Govenor In Council Appointments,"Mitchell, Brian"
+keith montgomery,Competition Tribunal,12501,Govenor In Council Appointments,"Montgomery, Keith"
+sandy morris,Immigration and Refugee Board,12140,Govenor In Council Appointments,"Morris, Sandy"
+andr plourde,Canada Mortgage and Housing Corporation,8851,Govenor In Council Appointments,"Plourde, André"
+william sheffield,Canada Post Corporation,12778,Govenor In Council Appointments,"Sheffield, William"
+evan siddall,Canada Mortgage and Housing Corporation,13437,Govenor In Council Appointments,"Siddall, Evan"
+prem singhmar,Canada Foundation for Innovation,13254,Govenor In Council Appointments,"Singhmar, Prem"
+gordon stovel,Canada Foundation for Innovation,13289,Govenor In Council Appointments,"Stovel, Gordon"
+anna tartaglia,Buffalo and Fort Erie Public Bridge Authority,13323,Govenor In Council Appointments,"Tartaglia, Anna"
+david thomas,Canadian Human Rights Tribunal,13330,Govenor In Council Appointments,"Thomas, David"
+michael tims,National Gallery of Canada,13367,Govenor In Council Appointments,"Tims, Michael"
+margaret vandenberg,Canadian Museum for Human Rights,13424,Govenor In Council Appointments,"Vandenberg, Margaret"
+gordon walker,International Joint Commission,13456,Govenor In Council Appointments,"Walker, Gordon"
+harriet walker,National Gallery of Canada,13242,Govenor In Council Appointments,"Walker, Harriet"
+robert wilband,Canadian Museum of History,13166,Govenor In Council Appointments,"Wilband, Robert"
+michael wilson,Canadian Institutes of Health Research,13307,Govenor In Council Appointments,"Wilson, Michael"
+dena bryan,Canadian Human Rights Tribunal,13310,Govenor In Council Appointments,"Bryan,Dena"
+douglas smith,Great Lakes Pilotage Authority,13529,Govenor In Council Appointments,"Smith, Douglas"
+scott player,Canadian Commercial Corporation,13576,Govenor In Council Appointments,"Player, Scott"
+geoffrey machum,Halifax Port Authority,13311,Govenor In Council Appointments,"Machum, Geoffrey"
+mark dwor,Canada Revenue Agency,227,Govenor In Council Appointments,"Dwor, Mark"
+paul baay,National Gallery of Canada,13066,Govenor In Council Appointments,"Baay, Paul"
+judy mintz,Canadian Human Rights Commission,13017,Govenor In Council Appointments,"Mintz, Judy"
+virginia mclaughlin,National Museum of Science and Technology,13103,Govenor In Council Appointments,"McLaughlin, Virginia"
+kevin smith,Canada Foundation for Innovation,13857,Govenor In Council Appointments,"Smith, Kevin"
+richard daw,Canada Revenue Agency,14159,Govenor In Council Appointments,"Daw, Richard"
+edward boyd,Canadian Broadcasting Corporation,13889,Govenor In Council Appointments,"Boyd, Edward"
+kelly serbu,Canadian Human Rights Commission,14031,Govenor In Council Appointments,"Serbu, Kelly"
+james fleck,Canadian Museum of History,13896,Govenor In Council Appointments,"Fleck, James"
+john hachey,Canadian Museum of Immigration at Pier 21,14134,Govenor In Council Appointments,"Hachey, John"
+peter klohn,Canadian Securities Regulation Regime Transition Office,14035,Govenor In Council Appointments,"Klohn, Peter"
+elio luongo,Competition Tribunal,14038,Govenor In Council Appointments,"Luongo, Elio"
+james doody,Marine Atlantic Inc.,13915,Govenor In Council Appointments,"Doody, James"
+john henley,Marine Atlantic Inc.,13874,Govenor In Council Appointments,"Henley, John"
+susan glass,National Arts Centre Corporation,13982,Govenor In Council Appointments,"Glass, Susan"
+peter currie,Atomic Energy of Canada Limited,13947,Govenor In Council Appointments,"Currie, Peter"
+samuel duboc,Business Development Bank of Canada,14025,Govenor In Council Appointments,"Duboc, Samuel"
+bryan davies,Canada Deposit Insurance Corporation,244,Govenor In Council Appointments,"Davies, Bryan"
+gilles morin,Laurentian Pilotage Authority,14053,Govenor In Council Appointments,"Morin, Gilles"
+jack williams,Arbitration Board (Inuvialuit),14149,Govenor In Council Appointments,"Williams, Jack"
+james hall,Atomic Energy of Canada Limited,14181,Govenor In Council Appointments,"Hall, James"
+gregory josey,Atomic Energy of Canada Limited,247,Govenor In Council Appointments,"Josey, Gregory"
+bob hamilton,"Atomic Energy of Canada Limited,æEnergy Supplies Allocation Board,æNorthern Pipeline Agency,Northern Pipeline Agency - Federal-Provincial Consultative Council,æPublic Service Pension Advisory Committee",14433,Govenor In Council Appointments,"Hamilton, Bob"
+norman betts,Bank of Canada,14325,Govenor In Council Appointments,"Betts, Norman"
+alan borger,Bank of Canada,14498,Govenor In Council Appointments,"Borger, Alan"
+phyllis clark,Bank of Canada,14335,Govenor In Council Appointments,"Clark, Phyllis"
+colin dodds,Bank of Canada,14440,Govenor In Council Appointments,"Dodds, Colin"
+claire kennedy,Bank of Canada,14366,Govenor In Council Appointments,"Kennedy, Claire"
+derek key,Bank of Canada,14385,Govenor In Council Appointments,"Key, Derek"
+hassan khosrowshahi,Bank of Canada,14405,Govenor In Council Appointments,"Khosrowshahi, Hassan"
+martin sullivan,Bank of Canada,252,Govenor In Council Appointments,"Sullivan, Martin"
+barry kyle,Belledune Port Authority,52,Govenor In Council Appointments,"Kyle, Barry"
+rocco vacca,Buffalo and Fort Erie Public Bridge Authority,14550,Govenor In Council Appointments,"Vacca, Rocco"
+eric boyko,Business Development Bank of Canada,14580,Govenor In Council Appointments,"Boyko, Eric"
+michael denham,Business Development Bank of Canada,14593,Govenor In Council Appointments,"Denham, Michael"
+shahir guindi,Business Development Bank of Canada,14595,Govenor In Council Appointments,"Guindi, Shahir"
+donald buckingham,Canada Agricultural Review Tribunal,263,Govenor In Council Appointments,"Buckingham, Donald"
+pierre lassonde,Canada Council for the Arts,15314,Govenor In Council Appointments,"Lassonde, Pierre"
+david mckay,Canada Council for the Arts,15533,Govenor In Council Appointments,"McKay, David"
+cheryl sharfe,Canada Council for the Arts,15432,Govenor In Council Appointments,"Sharfe, Cheryl"
+george burger,Canada Deposit Insurance Corporation,281,Govenor In Council Appointments,"Burger, George"
+susan hicks,Canada Deposit Insurance Corporation,15609,Govenor In Council Appointments,"Hicks, Susan"
+michael mackasey,Canada Development Investment Corporation,15233,Govenor In Council Appointments,"Mackasey, Michael"
+sandra rosch,Canada Development Investment Corporation,15619,Govenor In Council Appointments,"Rosch, Sandra"
+nicholas wemyss,Canada Development Investment Corporation,15107,Govenor In Council Appointments,"Wemyss, Nicholas"
+lynda brown,Canada Foundation for Innovation,14884,Govenor In Council Appointments,"Brown, Lynda"
+john bradlow,Canada Foundation for Sustainable Development Technology,15166,Govenor In Council Appointments,"Bradlow, John"
+jason lee,Canada Foundation for Sustainable Development Technology,14891,Govenor In Council Appointments,"Lee, Jason"
+gary lunn,Canada Foundation for Sustainable Development Technology,15423,Govenor In Council Appointments,"Lunn, Gary"
+daniel charbonneau,Canada Industrial Relations Board,15216,Govenor In Council Appointments,"Charbonneau, Daniel"
+graham clarke,Canada Industrial Relations Board,15628,Govenor In Council Appointments,"Clarke, Graham"
+donald woodley,Canada Post Corporation,15256,Govenor In Council Appointments,"Woodley, Donald"
+myles bourke,Canada Revenue Agency,15491,Govenor In Council Appointments,"Bourke, Myles"
+richard thorpe,Canada Revenue Agency,15641,Govenor In Council Appointments,"Thorpe, Richard"
+cynthia hickman,Canada-Newfoundland and Labrador Offshore Petroleum Board,15142,Govenor In Council Appointments,"Hickman, Cynthia"
+conrad sullivan,Canada-Newfoundland and Labrador Offshore Petroleum Board,15644,Govenor In Council Appointments,"Sullivan, Conrad"
+scott tessier,Canada-Newfoundland and Labrador Offshore Petroleum Board,15264,Govenor In Council Appointments,"Tessier, Scott"
+paul benoit,Canadian Air Transport Security Authority,14990,Govenor In Council Appointments,"Benoit, Paul"
+dora koop,Canadian Air Transport Security Authority,14991,Govenor In Council Appointments,"Koop, Dora"
+angus watt,Canadian Air Transport Security Authority,15753,Govenor In Council Appointments,"Watt, Angus"
+sonja chong,Canadian Broadcasting Corporation,15788,Govenor In Council Appointments,"Chong, Sonja"
+robert jeffery,Canadian Broadcasting Corporation,15757,Govenor In Council Appointments,"Jeffery, Robert"
+hubert lacroix,Canadian Broadcasting Corporation,15809,Govenor In Council Appointments,"Lacroix, Hubert"
+marni larkin,Canadian Broadcasting Corporation,10759,Govenor In Council Appointments,"Larkin, Marni"
+marlie oden,Canadian Broadcasting Corporation,288,Govenor In Council Appointments,"Oden, Marlie"
+rmi racine,Canadian Broadcasting Corporation,15678,Govenor In Council Appointments,"Racine, Rémi"
+john beckett,Canadian Centre for Occupational Health and Safety,15867,Govenor In Council Appointments,"Beckett, John"
+marcel pouliot,Canadian Centre for Occupational Health and Safety,16042,Govenor In Council Appointments,"Pouliot, Marcel"
+daniela bassan,Canadian Commercial Corporation,16058,Govenor In Council Appointments,"Bassan, Daniela"
+ray castelli,Canadian Commercial Corporation,16059,Govenor In Council Appointments,"Castelli, Ray"
+claude robillard,Canadian Commercial Corporation,16029,Govenor In Council Appointments,"Robillard, Claude"
+derrick rowe,Canadian Commercial Corporation,16031,Govenor In Council Appointments,"Rowe, Derrick"
+andrew saxton,Canadian Commercial Corporation,10798,Govenor In Council Appointments,"Saxton, Andrew"
+nicole verkindt,Canadian Commercial Corporation,16110,Govenor In Council Appointments,"Verkindt, Nicole"
+martin gagn,"Canadian Commercial Corporation,æIndependent Review Panel for Defence Acquisition",16103,Govenor In Council Appointments,"Gagné, Martin"
+alistair johnston,Canadian Dairy Commission,10775,Govenor In Council Appointments,"Johnston, Alistair"
+murdoch mackay,Canadian Grain Commission,16209,Govenor In Council Appointments,"MacKay, Murdoch"
+john nightingale,Canadian High Arctic Research Station,16303,Govenor In Council Appointments,"Nightingale, John"
+david scott,Canadian High Arctic Research Station,16333,Govenor In Council Appointments,"Scott, David"
+olga luftig,Canadian Human Rights Tribunal,16271,Govenor In Council Appointments,"Luftig, Olga"
+lawrence jardine,Canadian Institutes of Health Research,16451,Govenor In Council Appointments,"Jardine, Lawrence"
+lori turik,Canadian Institutes of Health Research,16652,Govenor In Council Appointments,"Turik, Lori"
+peter burn,Canadian International Trade Tribunal,16793,Govenor In Council Appointments,"Burn, Peter"
+ann penner,Canadian International Trade Tribunal,16880,Govenor In Council Appointments,"Penner, Ann"
+daniel petit,Canadian International Trade Tribunal,316,Govenor In Council Appointments,"Petit, Daniel"
+gail asper,Canadian Museum for Human Rights,16982,Govenor In Council Appointments,"Asper, Gail"
+deena granot,Canadian Museum for Human Rights,8646,Govenor In Council Appointments,"Granot, Deena"
+eric hughes,Canadian Museum for Human Rights,16988,Govenor In Council Appointments,"Hughes, Eric"
+wilton littlechild,"Canadian Museum for Human Rights,æIndian Residential Schools Truth and Reconciliation Commission",17030,Govenor In Council Appointments,"Littlechild, Wilton"
+michael bliss,Canadian Museum of History,324,Govenor In Council Appointments,"Bliss, Michael"
+claude thibault,Canadian Museum of History,18203,Govenor In Council Appointments,"Thibault, Claude"
+richard leblanc,Canadian Museum of Immigration at Pier 21,18256,Govenor In Council Appointments,"LeBlanc, Richard"
+byron neiles,Canadian Museum of Nature,18498,Govenor In Council Appointments,"Neiles, Byron"
+nicholas offord,Canadian Museum of Nature,18355,Govenor In Council Appointments,"Offord, Nicholas"
+rumina velshi,Canadian Nuclear Safety Commission,18362,Govenor In Council Appointments,"Velshi, Rumina"
+albert lo,Canadian Race Relations Foundation,391,Govenor In Council Appointments,"Lo, Albert"
+raj shoan,Canadian Radio-television and Telecommunications Commission,18731,Govenor In Council Appointments,"Shoan, Raj"
+peter brown,Canadian Securities Regulation Regime Transition Office,19251,Govenor In Council Appointments,"Brown, Peter"
+james hinds,Canadian Securities Regulation Regime Transition Office,18539,Govenor In Council Appointments,"Hinds, James"
+dale linn,Canadian Securities Regulation Regime Transition Office,18992,Govenor In Council Appointments,"Linn, Dale"
+michel coulombe,Canadian Security Intelligence Service,19041,Govenor In Council Appointments,"Coulombe, Michel"
+olga ilich,Canadian Tourism Commission,18223,Govenor In Council Appointments,"Ilich, Olga"
+dragan matovic,Canadian Tourism Commission,19090,Govenor In Council Appointments,"Matovic, Dragan"
+james mccrae,Citizenship Commission,18219,Govenor In Council Appointments,"McCrae, James"
+trang nguyen,Citizenship Commission,19329,Govenor In Council Appointments,"Nguyen, Trang"
+andrea paine,Citizenship Commission,413,Govenor In Council Appointments,"Paine, Andrea"
+nancy siew,Citizenship Commission,19433,Govenor In Council Appointments,"Siew, Nancy"
+wojciech sniegowski,Citizenship Commission,19443,Govenor In Council Appointments,"Sniegowski, Wojciech"
+albert wong,Citizenship Commission,19520,Govenor In Council Appointments,"Wong, Albert"
+richard saunders,Cree-Naskapi Commission,19844,Govenor In Council Appointments,"Saunders, Richard"
+john boyd,Defence Construction (1951) Limited,19868,Govenor In Council Appointments,"Boyd, John"
+robert presser,Defence Construction (1951) Limited,19973,Govenor In Council Appointments,"Presser, Robert"
+jacques boivin,Export Development Canada,19976,Govenor In Council Appointments,"Boivin, Jacques"
+vikram khurana,Export Development Canada,20092,Govenor In Council Appointments,"Khurana, Vikram"
+elliot lifson,Export Development Canada,20597,Govenor In Council Appointments,"Lifson, Elliot"
+robert mcleese,Export Development Canada,20610,Govenor In Council Appointments,"McLeese, Robert"
+jason stefanson,Export Development Canada,20944,Govenor In Council Appointments,"Stefanson, Jason"
+jeffrey steiner,Export Development Canada,20636,Govenor In Council Appointments,"Steiner, Jeffrey"
+donald bettle,Farm Credit Canada,20620,Govenor In Council Appointments,"Bettle, Donald"
+sylvie cloutier,Farm Credit Canada,20737,Govenor In Council Appointments,"Cloutier, Sylvie"
+dale johnston,Farm Credit Canada,20846,Govenor In Council Appointments,"Johnston, Dale"
+collin may,Farm Credit Canada,20847,Govenor In Council Appointments,"May, Collin"
+jamie muir,Farm Credit Canada,20861,Govenor In Council Appointments,"Muir, Jamie"
+jason skinner,Farm Credit Canada,20605,Govenor In Council Appointments,"Skinner, Jason"
+deborah tropea,Federal Bridge Corporation Limited (The),21654,Govenor In Council Appointments,"Tropea, Deborah"
+jane rooney,Financial Consumer Agency of Canada,21591,Govenor In Council Appointments,"Rooney, Jane"
+harold calla,First Nations Financial Management Board,21415,Govenor In Council Appointments,"Calla, Harold"
+gary nott,First Nations Financial Management Board,21091,Govenor In Council Appointments,"Nott, Gary"
+barrie robb,First Nations Financial Management Board,21490,Govenor In Council Appointments,"Robb, Barrie"
+aditya jha,"First Nations Financial Management Board,æNational Capital Commission",21185,Govenor In Council Appointments,"Jha, Aditya"
+lester lafond,First Nations Tax Commission,21202,Govenor In Council Appointments,"Lafond, Lester"
+donald salkeld,Freshwater Fish Marketing Corporation,21003,Govenor In Council Appointments,"Salkeld, Donald"
+trevor sprague,Freshwater Fish Marketing Corporation,460,Govenor In Council Appointments,"Sprague, Trevor"
+marielle wharton,Freshwater Fish Marketing Corporation,21400,Govenor In Council Appointments,"Wharton, Marielle"
+terry geddes,Great Lakes Pilotage Authority,20969,Govenor In Council Appointments,"Geddes, Terry"
+michael pratt,Great Lakes Pilotage Authority,21608,Govenor In Council Appointments,"Pratt, Michael"
+john ashton,Historic Sites and Monuments Board of Canada,21641,Govenor In Council Appointments,"Ashton, John"
+lorne wheeler,Historic Sites and Monuments Board of Canada,21452,Govenor In Council Appointments,"Wheeler, Lorne"
+atam uppal,Immigration and Refugee Board,22389,Govenor In Council Appointments,"Uppal, Atam"
+malcolm brown,"International Bank for Reconstruction and Development,æMultilateral Investment Guarantee Agency",22479,Govenor In Council Appointments,"Brown, Malcolm"
+scott gilmore,International Development Research Centre,22521,Govenor In Council Appointments,"Gilmore, Scott"
+gordon houlden,International Development Research Centre,22439,Govenor In Council Appointments,"Houlden, Gordon"
+monte solberg,International Development Research Centre,22502,Govenor In Council Appointments,"Solberg, Monte"
+david boyes,International Pacific Halibut Commission,22773,Govenor In Council Appointments,"Boyes, David"
+serge martel,Jacques Cartier and Champlain Bridges Incorporated (The),22926,Govenor In Council Appointments,"Martel, Serge"
+dwight rudderham,Marine Atlantic Inc.,23132,Govenor In Council Appointments,"Rudderham, Dwight"
+troy desouza,Military Police Complaints Commission,23252,Govenor In Council Appointments,"DeSouza, Troy"
+joe oliver,Multilateral Investment Guarantee Agency,23274,Govenor In Council Appointments,"Oliver, Joe"
+david crate,National Aboriginal Economic Development Board,23296,Govenor In Council Appointments,"Crate, David"
+terrance paul,National Aboriginal Economic Development Board,23317,Govenor In Council Appointments,"Paul, Terrance"
+ruth williams,National Aboriginal Economic Development Board,23328,Govenor In Council Appointments,"Williams, Ruth"
+lisa macdonald,National Capital Commission,583,Govenor In Council Appointments,"MacDonald, Lisa"
+kay stanley,National Capital Commission,23836,Govenor In Council Appointments,"Stanley, Kay"
+basil stewart,National Capital Commission,23956,Govenor In Council Appointments,"Stewart, Basil"
+jacques gauthier,National Energy Board,23866,Govenor In Council Appointments,"Gauthier, Jacques"
+roland george,National Energy Board,23867,Govenor In Council Appointments,"George, Roland"
+david hamilton,National Energy Board,23868,Govenor In Council Appointments,"Hamilton, David"
+michael richmond,National Energy Board,23959,Govenor In Council Appointments,"Richmond, Michael"
+ron wallace,National Energy Board,23966,Govenor In Council Appointments,"Wallace, Ron"
+peter watson,National Energy Board,23968,Govenor In Council Appointments,"Watson, Peter"
+louis puddister,National Film Board,23924,Govenor In Council Appointments,"Puddister, Louis"
+nezhat khosrowshahi,National Gallery of Canada,24035,Govenor In Council Appointments,"Khosrowshahi, Nezhat"
+helen johns,National Museum of Science and Technology,24104,Govenor In Council Appointments,"Johns, Helen"
+gary polonsky,National Museum of Science and Technology,606,Govenor In Council Appointments,"Polonsky, Gary"
+glen schmidt,National Museum of Science and Technology,24380,Govenor In Council Appointments,"Schmidt, Glen"
+carolyn cross,National Research Council of Canada,24278,Govenor In Council Appointments,"Cross, Carolyn"
+jay josefo,National Research Council of Canada,590,Govenor In Council Appointments,"Josefo, Jay"
+olivia butti,National Seniors Council,24508,Govenor In Council Appointments,"Butti, Olivia"
+yves beauchamp,Natural Sciences and Engineering Research Council,24375,Govenor In Council Appointments,"Beauchamp, Yves"
+robert niven,Natural Sciences and Engineering Research Council,24345,Govenor In Council Appointments,"Niven, Robert"
+john weissenberger,Natural Sciences and Engineering Research Council,24516,Govenor In Council Appointments,"Weissenberger, John"
+david kritterdlik,Nunavut Wildlife Management Board,24518,Govenor In Council Appointments,"Kritterdlik, David"
+william brooks,Office of the Commissioner for Federal Judicial Affairs,24521,Govenor In Council Appointments,"Brooks, William"
+jeffrey davidson,Office of the Extractive Sector Corporate Social Responsibility Counsellor,602,Govenor In Council Appointments,"Davidson, Jeffrey"
+sherra profit,Office of the Taxpayers' Ombudsman,24661,Govenor In Council Appointments,"Profit, Sherra"
+maurice bastarache,Parole Board of Canada,24391,Govenor In Council Appointments,"Bastarache, Maurice"
+jacques bouchard,Parole Board of Canada,24594,Govenor In Council Appointments,"Bouchard, Jacques"
+pierre cadieux,Parole Board of Canada,24767,Govenor In Council Appointments,"Cadieux, Pierre"
+simon chapelle,Parole Board of Canada,24597,Govenor In Council Appointments,"Chapelle, Simon"
+suzanne chartrand,Parole Board of Canada,24542,Govenor In Council Appointments,"Chartrand, Suzanne"
+alex dantzer,Parole Board of Canada,24545,Govenor In Council Appointments,"Dantzer, Alex"
+louise harris,Parole Board of Canada,24828,Govenor In Council Appointments,"Harris, Louise"
+stephen johnson,Parole Board of Canada,598,Govenor In Council Appointments,"Johnson, Stephen"
+denis jolette,Parole Board of Canada,24851,Govenor In Council Appointments,"Jolette, Denis"
+michel lalonde,Parole Board of Canada,24944,Govenor In Council Appointments,"Lalonde, Michel"
+guy leblanc,Parole Board of Canada,24960,Govenor In Council Appointments,"LeBlanc, Guy"
+robert marshall,Parole Board of Canada,8586,Govenor In Council Appointments,"Marshall, Robert"
+gordon mcrae,Parole Board of Canada,25234,Govenor In Council Appointments,"McRae, Gordon"
+richard bogoroch,Patented Medicine Prices Review Board,25395,Govenor In Council Appointments,"Bogoroch, Richard"
+sandra cawley,Payments in lieu of Taxes Dispute Advisory Panel,25477,Govenor In Council Appointments,"Cawley, Sandra"
+michael chandler,Payments in lieu of Taxes Dispute Advisory Panel,25401,Govenor In Council Appointments,"Chandler, Michael"
+surinder pal,Payments in lieu of Taxes Dispute Advisory Panel,25591,Govenor In Council Appointments,"Pal, Surinder"
+james white,Payments in lieu of Taxes Dispute Advisory Panel,25615,Govenor In Council Appointments,"White, James"
+gillian trumper,Port Alberni Port Authority,25687,Govenor In Council Appointments,"Trumper, Gillian"
+john beck,PPP Canada Inc.,25719,Govenor In Council Appointments,"Beck, John"
+rick byers,PPP Canada Inc.,19,Govenor In Council Appointments,"Byers, Rick"
+john mcbride,PPP Canada Inc.,25775,Govenor In Council Appointments,"McBride, John"
+cheryl barker,Public Sector Pension Investment Board,25797,Govenor In Council Appointments,"Barker, Cheryl"
+garnet garven,Public Sector Pension Investment Board,8715,Govenor In Council Appointments,"Garven, Garnet"
+michael mueller,Public Sector Pension Investment Board,26301,Govenor In Council Appointments,"Mueller, Michael"
+claude poirier,Public Service Pension Advisory Committee,26976,Govenor In Council Appointments,"Poirier, Claude"
+denis bernier,Québec Port Authority,27518,Govenor In Council Appointments,"Bernier, Denis"
+pierre rivard,Québec Port Authority,27203,Govenor In Council Appointments,"Rivard, Pierre"
+claude rousseau,Québec Port Authority,26684,Govenor In Council Appointments,"Rousseau, Claude"
+jozef carnogursky,Renewable Resources Board (Gwich'in),27213,Govenor In Council Appointments,"Carnogursky, Jozef"
+kenneth hunt,Renewable Resources Board (Gwich'in),27421,Govenor In Council Appointments,"Hunt, Kenneth"
+guy dancosse,Royal Canadian Mint,26603,Govenor In Council Appointments,"Dancosse, Guy"
+ghislain harvey,Royal Canadian Mint,27783,Govenor In Council Appointments,"Harvey, Ghislain"
+carman joynt,Royal Canadian Mint,719,Govenor In Council Appointments,"Joynt, Carman"
+carol skelton,Royal Canadian Mint,27823,Govenor In Council Appointments,"Skelton, Carol"
+elizabeth walker,Royal Canadian Mounted Police External Review Committee,27794,Govenor In Council Appointments,"Walker, Elizabeth"
+martial bouchard,Saguenay Port Authority,27843,Govenor In Council Appointments,"Bouchard, Martial"
+karin schnarr,Social Sciences and Humanities Research Council,28179,Govenor In Council Appointments,"Schnarr, Karin"
+jatinder bhullar,Social Security Tribunal,28255,Govenor In Council Appointments,"Bhullar, Jatinder"
+claude durand,Social Security Tribunal,28382,Govenor In Council Appointments,"Durand, Claude"
+pierre lafontaine,Social Security Tribunal,28212,Govenor In Council Appointments,"Lafontaine, Pierre"
+normand morin,Social Security Tribunal,28520,Govenor In Council Appointments,"Morin, Normand"
+eleni palantzas,Social Security Tribunal,72940,Govenor In Council Appointments,"Palantzas, Eleni"
+raymond raphael,Social Security Tribunal,28706,Govenor In Council Appointments,"Raphael, Raymond"
+roxanne morrissey,St. John's Port Authority,29054,Govenor In Council Appointments,"Morrissey, Roxanne"
+john walter,Standards Council of Canada,29203,Govenor In Council Appointments,"Walter, John"
+michel roy,Telefilm Canada,28931,Govenor In Council Appointments,"Roy, Michel"
+john badowski,Transportation Appeal Tribunal of Canada,29386,Govenor In Council Appointments,"Badowski, John"
+gary drouin,Transportation Appeal Tribunal of Canada,29420,Govenor In Council Appointments,"Drouin, Gary"
+herbert lee,Transportation Appeal Tribunal of Canada,29423,Govenor In Council Appointments,"Lee, Herbert"
+stephen rogers,Transportation Appeal Tribunal of Canada,29447,Govenor In Council Appointments,"Rogers, Stephen"
+pierre desjardins,Veterans Review and Appeal Board,29757,Govenor In Council Appointments,"Desjardins, Pierre"
+roger langille,Veterans Review and Appeal Board,771,Govenor In Council Appointments,"Langille, Roger"
+robert malo,Veterans Review and Appeal Board,29878,Govenor In Council Appointments,"Malo, Robert"
+serge martel,Veterans Review and Appeal Board,786,Govenor In Council Appointments,"Martel, Serge"
+joan walsh,Veterans Review and Appeal Board,777,Govenor In Council Appointments,"Walsh, Joan"
+richard woodfield,Veterans Review and Appeal Board,29969,Govenor In Council Appointments,"Woodfield, Richard"
+denis durand,VIA Rail Canada Inc.,29824,Govenor In Council Appointments,"Durand, Denis"
+david hoff,VIA Rail Canada Inc.,29825,Govenor In Council Appointments,"Hoff, David"
+randy barber,Social Security Tribunal,795,Govenor In Council Appointments,"Barber, Randy"
+barbara sutherland,Canada Lands Company Limited,30204,Govenor In Council Appointments,"Sutherland, Barbara Jean"
+bhalwinder waraich,Social Sciences and Humanities Research Council,30206,Govenor In Council Appointments,"Waraich, Bhalwinder Singh"
+michael beauchesne,Social Security Tribunal,30249,Govenor In Council Appointments,"Beauchesne, Michael Anthony"
+apostolos kefalas,Jacques Cartier and Champlain Bridges Incorporated (The),30488,Govenor In Council Appointments,"Kefalas, Apostolos Paul"
+stephen campbell,Canadian Transportation Agency,30627,Govenor In Council Appointments,"Campbell, Stephen Douglas"
+peter fitzgerald,Canadian Transportation Agency,30617,Govenor In Council Appointments,"Fitzgerald, Peter Paul"
+william mcmurray,Canadian Transportation Agency,30612,Govenor In Council Appointments,"McMurray, William George Avery"
+kenneth atkinson,Immigration and Refugee Board,30633,Govenor In Council Appointments,"Atkinson, Kenneth David"
+garfield moffatt,Marine Atlantic Inc.,30646,Govenor In Council Appointments,"Moffatt, Garfield Ian"
+gregory thompson,Roosevelt Campobello International Park Commission,30791,Govenor In Council Appointments,"Thompson, Gregory Francis"
+deanne stapleton,St. John's Port Authority,31163,Govenor In Council Appointments,"Stapleton, Deanne Helen"
+bradley caldwell,Transportation Appeal Tribunal of Canada,30849,Govenor In Council Appointments,"Caldwell, Bradley Morris"
+james balsillie,Canada Foundation for Sustainable Development Technology,30922,Govenor In Council Appointments,"Balsillie, James Laurence"
+andrew paterson,Canada Post Corporation,30837,Govenor In Council Appointments,"Paterson, Andrew Bartholomew"
+ronald williams,Canadian Human Rights Tribunal,30983,Govenor In Council Appointments,"Williams, Ronald Sydney"
+kenneth maclean,Immigration and Refugee Board,31100,Govenor In Council Appointments,"MacLean, Kenneth Duncan"
+veronica zanfir,Immigration and Refugee Board,30942,Govenor In Council Appointments,"Zanfir, Veronica Gabriela"
+jane hungerford,National Museum of Science and Technology,30992,Govenor In Council Appointments,"Hungerford, Jane Knott"
+edward gullberg,Payments in lieu of Taxes Dispute Advisory Panel,30999,Govenor In Council Appointments,"Gullberg, Edward Wayne"
+jennifer clarke,Prince Rupert Port Authority,30879,Govenor In Council Appointments,"Clarke, Jennifer Brunsdale"
+michael collins,Social Security Tribunal,31221,Govenor In Council Appointments,"Collins, Michael Joseph"
+michael crosbie,St. John's Port Authority,31403,Govenor In Council Appointments,"Crosbie, Michael John"
+james macdonald,Transportation Appeal Tribunal of Canada,31339,Govenor In Council Appointments,"Macdonald, James Edwin"
+timothy chapman,Vancouver Fraser Port Authority,31311,Govenor In Council Appointments,"Chapman, Timothy John"
+bernard leblanc,Veterans Review and Appeal Board,31354,Govenor In Council Appointments,"LeBlanc, Bernard Thomas"
+patricia mella,Atlantic Pilotage Authority,31541,Govenor In Council Appointments,"Mella, Patricia Janet"
+leonard sharpe,Canada Mortgage and Housing Corporation,31521,Govenor In Council Appointments,"Sharpe, Leonard Peter"
+donald mcinnes,Canada Post Corporation,31544,Govenor In Council Appointments,"McInnes, Donald Stewart"
+terrence leier,Canadian Broadcasting Corporation,31547,Govenor In Council Appointments,"Leier, Terrence Anthony"
+ricki johnston,Canadian Human Rights Tribunal,31606,Govenor In Council Appointments,"Johnston, Ricki Theresa"
+kelly mccauley,Edmonton Northlands,31756,Govenor In Council Appointments,"McCauley, Kelly John"
+richard morgan,International Joint Commission,32256,Govenor In Council Appointments,"Morgan, Richard Arthur"
+lubomyr luciuk,Parole Board of Canada,32026,Govenor In Council Appointments,"Luciuk, Lubomyr Yaroslav"
+stuart whitley,Parole Board of Canada,32016,Govenor In Council Appointments,"Whitley, Stuart James"
+robert tchegus,Payments in lieu of Taxes Dispute Advisory Panel,32035,Govenor In Council Appointments,"Tchegus, Robert Paul"
+robert hallsor,Prince Rupert Port Authority,31836,Govenor In Council Appointments,"Hallsor, Robert Bruce Ellis"
+margot ballagh,Social Security Tribunal,32143,Govenor In Council Appointments,"Ballagh, Margot Mary Douglas"
+kathleen craig,Social Security Tribunal,32148,Govenor In Council Appointments,"Craig, Kathleen Loo"
+eric stefanson,VIA Rail Canada Inc.,32421,Govenor In Council Appointments,"Stefanson, Eric Lorne"
+william graham,Windsor-Detroit Bridge Authority,32431,Govenor In Council Appointments,"Graham, William Alvin"
+edward larsen,Halifax Port Authority,32442,Govenor In Council Appointments,"Larsen, Edward Clarke"
+brian ritchie,Atlantic Pilotage Authority,32552,Govenor In Council Appointments,"Ritchie, Brian Gregory"
+raymond salci,Citizenship Commission,32623,Govenor In Council Appointments,"Salci, Raymond Theodore"
+connie graham,Federal Bridge Corporation Limited (The),892,Govenor In Council Appointments,"Graham, Connie Lois"
+robert lemire,Great Lakes Pilotage Authority,32966,Govenor In Council Appointments,"Lemire, Robert Fernand"
+robert savage,Hamilton Port Authority,32839,Govenor In Council Appointments,"Savage, Robert Paul"
+robert garner,Immigration and Refugee Board,32905,Govenor In Council Appointments,"Garner, Robert Sinclair"
+donald walcot,National Arts Centre Corporation,33011,Govenor In Council Appointments,"Walcot, Donald Thomas"
+peter bernard,Pacific Pilotage Authority,33158,Govenor In Council Appointments,"Bernard, Peter Goodwin"
+david bromley,Ridley Terminals Inc.,33347,Govenor In Council Appointments,"Bromley, David Edward George"
+thomas giraud,Ridley Terminals Inc.,26090,Govenor In Council Appointments,"Giraud, Thomas Sewell Byng"
+philip brewer,Saint John Port Authority,33411,Govenor In Council Appointments,"Brewer, Philip Carroll"
+martin bugden,Social Security Tribunal,33414,Govenor In Council Appointments,"Bugden, Martin Henry"
+john eberhard,Social Security Tribunal,33439,Govenor In Council Appointments,"Eberhard, John Janes"
+teresa jaenen,Social Security Tribunal,33452,Govenor In Council Appointments,"Jaenen, Teresa Diane"
+john mccarthy,Social Security Tribunal,33443,Govenor In Council Appointments,"McCarthy, John Gerard"
+michael moore,Social Security Tribunal,33436,Govenor In Council Appointments,"Moore, Michael Tyler"
+carol kerfoot,Vancouver Fraser Port Authority,33557,Govenor In Council Appointments,"Kerfoot, Carol Alexandra"
+ramona materi,VIA Rail Canada Inc.,33503,Govenor In Council Appointments,"Materi, Ramona Rosanne"
+bianca deluca,Windsor Port Authority,33534,Govenor In Council Appointments,"DeLuca, Bianca Mary"
+denise ghanam,Windsor Port Authority,33559,Govenor In Council Appointments,"Ghanam, Denise Clair"
+kevin falcon,Asia-Pacific Foundation of Canada,33560,Govenor In Council Appointments,"Falcon, Kevin Matthew"
+patric whyte,Canada Industrial Relations Board,33685,Govenor In Council Appointments,"Whyte, Patric Francis"
+andrea peart,Canadian Centre for Occupational Health and Safety,33814,Govenor In Council Appointments,"Peart, Andrea Lea"
+kathleen fox,Canadian Transportation Accident Investigation and Safety Board,33836,Govenor In Council Appointments,"Fox, Kathleen Carol"
+jean ouellet,Defence Construction (1951) Limited,33955,Govenor In Council Appointments,"Ouellet, Jean Marc"
+gordon mcrae,Immigration and Refugee Board,34126,Govenor In Council Appointments,"McRae, Gordon Christopher"
+david caddey,Independent Review Panel for Defence Acquisition,34062,Govenor In Council Appointments,"Caddey, David Neil"
+james fraser,International Commission on the Conservation of Atlantic Tunas,34127,Govenor In Council Appointments,"Fraser, James Douglas"
+gary valcour,Oshawa Port Authority,34311,Govenor In Council Appointments,"Valcour, Gary Franklin"
+murray dodds,Parole Board of Canada,34338,Govenor In Council Appointments,"Dodds, Murray Allan"
+keith heming,Parole Board of Canada,949,Govenor In Council Appointments,"Heming, Keith Ian Munro"
+james wilson,Payments in lieu of Taxes Dispute Advisory Panel,34547,Govenor In Council Appointments,"Wilson, James Scott"
+glen johnson,Social Security Tribunal,34830,Govenor In Council Appointments,"Johnson, Glen John"
+patrick dowd,Transportation Appeal Tribunal of Canada,34886,Govenor In Council Appointments,"Dowd, Patrick Terrence"
+laura safran,Transportation Appeal Tribunal of Canada,36058,Govenor In Council Appointments,"Safran, Laura Marilyn"
+james wilson,Treaty Relations Commission of Manitoba,35310,Govenor In Council Appointments,"Wilson, James Brook"
+robert watt,"Advisory Committee on Vice-Regal Appointments,Citizenship Commission",35525,Govenor In Council Appointments,"Watt, Robert Douglas"
+laurie hawn,Canada-US Permanent Joint Board on Defence,963,Govenor In Council Appointments,"Hawn, Laurie Daniel"
+susan knott,Canadian Museum of Nature,35232,Govenor In Council Appointments,"Knott, Susan Jane"
+david cohen,National Museum of Science and Technology,35426,Govenor In Council Appointments,"Cohen, David James"
+peter singh,Oshawa Port Authority,35250,Govenor In Council Appointments,"Singh, Peter Ganga"
+glenn cooke,Saint John Port Authority,973,Govenor In Council Appointments,"Cooke, Glenn Bruce"
+lisa keenan,Saint John Port Authority,979,Govenor In Council Appointments,"Keenan, Lisa Ann Kathleen"
+john peters,Senate,35492,Govenor In Council Appointments,"Peters, John Gregory"
+connie dyck,Social Security Tribunal,35179,Govenor In Council Appointments,"Dyck, Connie Lee"
+john hodder,St. John's Port Authority,34737,Govenor In Council Appointments,"Hodder, John Walter"
+john young,Canadian Museum for Human Rights,35814,Govenor In Council Appointments,"Young, John Fitzgerald"
+james paul,Defence Construction (1951) Limited,35255,Govenor In Council Appointments,"Paul, James Stewart"
+lisa smith,National Seniors Council,35256,Govenor In Council Appointments,"Smith, Lisa Marie"
+paul young,Payments in lieu of Taxes Dispute Advisory Panel,35890,Govenor In Council Appointments,"Young, Paul Robert"
+mark borer,Social Security Tribunal,35906,Govenor In Council Appointments,"Borer, Mark Steven"
+anne clark,Social Security Tribunal,35189,Govenor In Council Appointments,"Clark, Anne Shirley"
+neil nawaz,Social Security Tribunal,35911,Govenor In Council Appointments,"Nawaz, Neil Parvaiz"
+john power,Supreme Court of Canada,36092,Govenor In Council Appointments,"Power, John David"
+oudit rai,Social Security Tribunal,35339,Govenor In Council Appointments,"Rai, Oudit Narine"
+john rose,Social Security Tribunal,34747,Govenor In Council Appointments,"Rose, John Franklin Leonard"
+roy smith,Social Security Tribunal,35575,Govenor In Council Appointments,"Smith, Roy Grant"
+craig rix,Windsor-Detroit Bridge Authority,36161,Govenor In Council Appointments,"Rix, Craig Stuart"
+tim kwan,National Seniors Council,34757,Govenor In Council Appointments,"Kwan, Tim Wing"
+david usher,Ambassador to ÊVietnam??,988,Ambassador,"Usher, David"
+eric walsh,Ambassador to ÊBelgium??,36711,Ambassador,"Walsh, Eric"
+mark mcdowell,Ambassador to ÊÊSwitzerland??,36798,Ambassador,"McDowell, Mark"
+gordon campbell,Ambassador to ÊPanama??,37394,Ambassador,"Campbell, Gordon"
+john morrison,Ambassador to ÊBangladesh??,37494,Ambassador,"Morrison, John"
+kathleen mackay,Ambassador to ??,37030,Ambassador,"Mackay, Kathleen"
+lawrence cannon,Ambassador to ÊMorocco??,37516,Ambassador,"Cannon, Lawrence"
+robert mcdougall,Ambassador to ??,37170,Ambassador,"McDougall, Robert"
+vivian bercovici,Ambassador to ??,37628,Ambassador,"Bercovici, Vivian"
+yves gagnon,Ambassador to ÊIsrael??,37507,Ambassador,"Gagnon, Yves"
+richard wagner,Supreme Court of Canada,37855,Supreme Court of Canada,"Wagner, Richard"
+russell brown,Supreme Court of Canada,37843,Supreme Court of Canada,"Brown, Russell"
+guy smith,Tax Court of Canada,37938,Tax Court of Canada,Guy R. Smith
+john owen,Tax Court of Canada,37846,Tax Court of Canada,John R. Owen
+roger hughes,Federal Court Judge,37783,Federal Court Judge,Roger T. Hughes
+peter annis,Federal Court Judge,37860,Federal Court Judge,Peter B. Annis
+henry brown,Federal Court Judge,38020,Federal Court Judge,Henry S. Brown
+keith boswell,Federal Court Judge,38034,Federal Court Judge,Keith M. Boswell
+frank pizzitelli,Tax Court of Canada,38156,Tax Court of Canada,Frank J. Pizzitelli
+david graham,Tax Court of Canada,38190,Tax Court of Canada,David E. Graham
+brian porter,"President and CEO, Scotiabank, Toronto, Ontario",38164,Advisory Council for CanadaÕs Global Markets Action Plan (GMAP),Brian J. Porter
+sandra simpson,Federal Court Judge,38203,Federal Court Judge,Sandra J. Simpson
+donald lindsay,"President and CEO, Teck Resources Ltd., Vancouver, British Columbia",38745,Advisory Council for CanadaÕs Global Markets Action Plan (GMAP),Donald R. Lindsay
+douglas campbell,Federal Court Judge,38725,Federal Court Judge,Douglas R. Campbell
+michael manson,Federal Court Judge,38687,Federal Court Judge,Michael D. Manson
+patrick boyle,Tax Court of Canada,38938,Tax Court of Canada,Patrick J. Boyle
+kathleen lyons,Tax Court of Canada,38789,Tax Court of Canada,Kathleen T. Lyons
+robert hogan,Tax Court of Canada,38856,Tax Court of Canada,Robert James Hogan
+susan elliott,Federal Court Judge,38971,Federal Court Judge,Susan Elliott
+denis pelletier,Federal court of appeal,39022,Federal court of appeal,Denis Pelletier
+michel beaudry,Federal Court Judge,39059,Federal Court Judge,Michel Beaudry
+james russell,Federal Court Judge,1070,Federal Court Judge,James Russell
+yvan roy,Federal Court Judge,39586,Federal Court Judge,Yvan Roy
+alan diner,Federal Court Judge,39415,Federal Court Judge,Alan Diner
+robin camp,Federal Court Judge,39369,Federal Court Judge,Robin Camp
+pierre archambault,Tax Court of Canada,39268,Tax Court of Canada,Pierre Archambault*
+diane campbell,Tax Court of Canada,39435,Tax Court of Canada,Diane Campbell
+philip leong,APEC Advisory Council,39715,APEC Advisory Council,Philip Leong
+john bradlow,Economic Advisory Council,39734,Economic Advisory Council,John Bradlow
+peter brown,Economic Advisory Council,39737,Economic Advisory Council,Peter Brown
+paul desmarais,Economic Advisory Council,39747,Economic Advisory Council,Paul Desmarais
+murray edwards,Economic Advisory Council,1082,Economic Advisory Council,Murray Edwards
+donald lindsay,Economic Advisory Council,39788,Economic Advisory Council,Donald Lindsay
+andrew oland,Economic Advisory Council,39898,Economic Advisory Council,Andrew Oland
+derek burney,"Senior Strategic Advisor, Norton Rose Fulbright, Ottawa, Ontario",40228,Advisory Council for CanadaÕs Global Markets Action Plan (GMAP),Derek Burney
+marc parent,"President and Chief Executive Officer, CAE, Saint-Laurent, Quebec",1094,Advisory Council for CanadaÕs Global Markets Action Plan (GMAP),Marc Parent
+ian smith,"Chief Executive Officer, Clearwater Seafoods Ltd., Bedford, Nova Scotia",39950,Advisory Council for CanadaÕs Global Markets Action Plan (GMAP),Ian Smith
+nancy southern,"Chair, President and CEO, ATCO Group, Calgary, Alberta",40678,Advisory Council for CanadaÕs Global Markets Action Plan (GMAP),Nancy Southern

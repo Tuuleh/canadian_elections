@@ -6,7 +6,7 @@
   - average donation by DONER_ID
 4. merge data frames by doner id
 
-ddply(test_frame,.(clean_first_last_name,contributor_id),summarise,mean_2005=mean(donation_2005),total_2005=sum(donation_2005),frequency_2005=length(donation_2005))
+ddply(test_frame,.(clean_first_last_name,contributor_id),summarise,mean_2014=mean(donation_2014),total_2014=sum(donation_2014),frequency_2014=length(donation_2014))
 
 
 assign('aggregates_2014', ddply(doners_2014,.(clean_first_last_name,contributor_id),summarise,mean_2014=mean(donation_2014),total_2014=sum(donation_2014),frequency_2014=length(donation_2014)))
@@ -14,23 +14,55 @@ assign('aggregates_2014', ddply(doners_2014,.(clean_first_last_name,contributor_
 5. find overall total of donations over time
 
 
-giant_data$total_all_time <- sum(giant_data$total_2004,giant_data$total_2005,giant_data$total_2006,giant_data$total_2007,giant_data$total_2008,giant_data$total_2009,giant_data$total_2010,giant_data$total_2011,giant_data$total_2012,giant_data$total_2013,giant_data$total_2014, na.rm=TRUE)
+giant_data$total_all_time <- sum(giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014, na.rm=TRUE)
 
-giant_data$total_all_time <- rowSums(giant_data[,c(giant_data$total_2004,giant_data$total_2005,giant_data$total_2006,giant_data$total_2007,giant_data$total_2008,giant_data$total_2009,giant_data$total_2010,giant_data$total_2011,giant_data$total_2012,giant_data$total_2013,giant_data$total_2014)], na.rm=TRUE)
-
-
-giant_data$total_all_time <- rowSums(giant_data[,c('total_2004','total_2005','total_2006','total_2007','total_2008','total_2009','total_2010','total_2011','total_2012','total_2013','total_2014')], na.rm=TRUE)
-
-giant_data$aliases <- unique(c(as.character(giant_data$name_2004),as.character(giant_data$name_2005),as.character(giant_data$name_2006),as.character(giant_data$name_2007),as.character(giant_data$name_2008),as.character(giant_data$name_2009),as.character(giant_data$name_2010),as.character(giant_data$name_2011),as.character(giant_data$name_2012),as.character(giant_data$name_2013),as.character(giant_data$name_2014)))
+giant_data$total_all_time <- rowSums(giant_data[,c(giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014,giant_data$total_2014)], na.rm=TRUE)
 
 
-giant_data[,list('name_2004','name_2005','name_2006','name_2007','name_2008','name_2009','name_2010','name_2011','name_2012','name_2013','name_2014')]
+total_donations$total_all_time <- rowSums(total_donations[,c('total_2004','total_2005','total_2006','total_2007','total_2008','total_2009','total_2010','total_2011','total_2012','total_2013','total_2014')], na.rm=TRUE)
 
-giant_data$aliases <- giant_data[,aliases=I(list('name_2004','name_2005','name_2006','name_2007','name_2008','name_2009','name_2010','name_2011','name_2012','name_2013','name_2014'))]
-
-giant_data[,aliases=I(list(giant_data$name_2004, giant_data$name_2005,giant_data$name_2006,giant_data$name_2007,giant_data$name_2008,giant_data$name_2009,giant_data$name_2010,giant_data$name_2011,giant_data$name_2012,giant_data$name_2013,giant_data$name_2014))]
+giant_data$aliases <- unique(c(as.character(giant_data$name_2014),as.character(giant_data$name_2014),as.character(giant_data$name_2014),as.character(giant_data$name_2014),as.character(giant_data$name_2014),as.character(giant_data$name_2014),as.character(giant_data$name_2014),as.character(giant_data$name_2014),as.character(giant_data$name_2014),as.character(giant_data$name_2014),as.character(giant_data$name_2014)))
 
 
-giant_data$aliases <- list(giant_data$name_2004, giant_data$name_2005,giant_data$name_2006,giant_data$name_2007,giant_data$name_2008,giant_data$name_2009,giant_data$name_2010,giant_data$name_2011,giant_data$name_2012,giant_data$name_2013,giant_data$name_2014)
+giant_data[,list('name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014')]
 
-aliases <- uniq(list(giant_data$name_2004, giant_data$name_2005,giant_data$name_2006,giant_data$name_2007,giant_data$name_2008,giant_data$name_2009,giant_data$name_2010,giant_data$name_2011,giant_data$name_2012,giant_data$name_2013,giant_data$name_2014))
+giant_data$aliases <- giant_data[,aliases=I(list('name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014','name_2014'))]
+
+giant_data[,aliases=I(list(giant_data$name_2014, giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014))]
+
+
+giant_data$aliases <- list(giant_data$name_2014, giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014)
+
+aliases <- uniq(list(giant_data$name_2014, giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014,giant_data$name_2014))
+
+
+
+ddply(giant_data[1:100,],.(contributor_id), summarise,name=clean_first_last_name))
+
+total_donations$frequency_all_time <- rowSums(total_donations[,c('frequency_2004','frequency_2005','frequency_2006','frequency_2007','frequency_2008','frequency_2009','frequency_2010','frequency_2011','frequency_2012','frequency_2013','frequency_2014')], na.rm=TRUE)
+
+total_donations$mean_all_time <- rowMeans(total_donations[,c('mean_2004','mean_2005','mean_2006','mean_2007','mean_2008','mean_2009','mean_2010','mean_2011','mean_2012','mean_2013','mean_2014')], na.rm=TRUE)
+
+
+BINDS DONATION AMOUNTS INTO CONTRIBUTOR_IDs COMBINING ALL OF THE DONATIONS UNDER THE SAME ID
+assign('aggregates_test', ddply(test,.(contributor_id),summarise,mean_test=mean(contrib.amount),total=sum(contrib.amount),frequency=length(contrib.amount)))
+
+CREATES A LIST OF NAMES ASSOCIATED WITH CONTRIBUTOR_IDs, note that this WILL lead to duplicates!
+assign('aggregate_names',ddply(test,.(contributor_id),summarise,name=clean_first_last_name))
+<- that did not work, plyr is WAY too slow. Instead, make a lookup table for each table by name and ID. Rowbind all the tables together into a lookup table, and then remove duplicates.
+
+
+WITHOUT DUPLICATES    
+aggregate_names[!duplicated(aggregate_names),]
+
+1. Create name + id table:
+assign('contributor_lookup_table', ddply(giant_data,.(contributor_id), summarise,name=clean_first_last_name))
+
+2. Get only unique entries to the lookup table:
+contributor_lookup_table([!duplicated(contributor_lookup_table),])
+
+3. Start creating aggregate tables for each year:
+assign('contributions_2014', ddply(doners_2014,.(contributor_id),summarise,mean_2014=mean(donation_2014),total_2014=sum(donation_2014),frequency_2014=length(donation_2014)))
+
+4. Combine aggregate tables into giant table:
+
