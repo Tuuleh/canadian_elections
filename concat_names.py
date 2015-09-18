@@ -1,5 +1,6 @@
 from nameparser import HumanName
 import csv
+import re
 
 def get_file_column(file):
   file = open(file, 'rb')
@@ -19,8 +20,9 @@ def populate_appointee_array(appointee_data):
   for i, name in enumerate(appointee_data['CleanNameNoMiddle']):
     # Build an array decoding all of the appointee names and last names from utf-8 into unicode,
     # then convert those into ASCII ignoring errors, because the R output csv was converted into ASCII
-    parsed_name = ("%s %s" % (HumanName(name.decode('utf-8')).first.lower(), 
-      HumanName(name.decode('utf-8')).last.lower())).encode('ascii', 'ignore')
+    regex = re.compile('[^a-zA-Z\s]')
+    parsed_name = regex.sub('',("%s %s" % (HumanName(name.decode('utf-8')).first.lower(), 
+      HumanName(name.decode('utf-8')).last.lower())).encode('ascii', 'ignore'))
     parsed_names.append({
       'organization': appointee_data['Organizations'][i],
       'type': appointee_data['Type'][i],
@@ -31,12 +33,17 @@ def populate_appointee_array(appointee_data):
 
 def find_donor_appointees(donor_data, appointee_array):
   donor_appointees = []
+  bad_matches = []
   for i, appointee in enumerate(appointee_array):
+    print i
     if appointee['parsed_name'] in donor_data['name']:
       print "we have a match with %s" %(appointee['parsed_name'])
       appointee['contributor_id'] = donor_data['contributor_id'][i]
       donor_appointees.append(appointee)
-  return donor_appointees
+    else:
+      print "no match with %s" %(appointee['parsed_name'])
+      bad_matches.append(appointee)
+  return donor_appointees, bad_matches
 
 def write_results(res, csvfile):
 # "{'parsed_name': 'kathleen lyons', 'organization': 'Tax Court of Canada', 'contributor_id': '38789', 'type': 'Tax Court of Canada', 'name': 'Kathleen T. Lyons'}"
@@ -49,11 +56,12 @@ def write_results(res, csvfile):
 def run(appointees_file, donors_file):
   donor_data = get_file_column(donors_file)
   appointee_array = populate_appointee_array(get_file_column(appointees_file))
-  matches = find_donor_appointees(donor_data, appointee_array)
+  matches, misses = find_donor_appointees(donor_data, appointee_array)
   write_results(matches, 'matches.csv')
+  write_results(misses, 'misses.csv')
 
 appointees = 'appointees.csv'
-donors = 'contributor_lookup_table.csv'
+donors = 'lookup_file.csv'
 
 if __name__ == "__main__":
     run(appointees, donors)
